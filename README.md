@@ -1,2 +1,2 @@
 # gitskills
-## craeting a new branch is quick
+## craeting a new branch is quick & simple
